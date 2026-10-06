@@ -1,0 +1,121 @@
+/*all the colors are from an AI model*/
+body {
+  font-family: arial;
+  width: 80%;
+  box-sizing: border-box;
+  background-color: #f2f6fa;
+  margin: 10px auto;
+}
+.header {
+  text-align: center;
+  background-color: #205487;
+  border-radius: 10px;
+  padding: 50px;
+}
+.header h2 {
+  color: white;
+}
+.header h3 {
+  color: #c8e0f5;
+  margin: 10px 0;
+}
+.header a {
+  display: inline-block;
+  color: white;
+  border: 1px #6c9ac4 solid;
+  padding: 10px 15px;
+  margin: 8px 3px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.about {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+}
+.about img {
+  width: 130px;
+  float: left;
+  margin-right: 30px;
+  border-radius: 50%;
+}
+.about p {
+  padding-top: 30px;
+}
+.about a {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #126bb0;
+  color: white;
+  padding: 10px;
+  border-style: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.skills {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+}
+.card {
+  width: 150px;
+  height: 100px;
+  border: 1px solid #d9e5ef;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px;
+  float: left;
+}
+.card h4 {
+  color: #126bb0;
+}
+.exp {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+}
+.job img {
+  width: 60px;
+  float: left;
+  margin-right: 30px;
+}
+.job {
+  padding: 20px;
+  border-left: 3px solid #126bb0;
+  border-radius: 5px;
+  background-color: #f1f1f1;
+  margin-bottom: 15px;
+}
+.job h4 {
+  margin: 5px 0 0 0;
+}
+.job h5 {
+  color: #126bb0;
+  margin: 3px 0 0 0;
+}
+.job h6 {
+  margin: 3px 0 0 0;
+}
+.contact {
+  background-color: #205487;
+  border-radius: 10px;
+  padding: 20px;
+  color: white;
+}
+.contact p {
+  margin-top: 20px;
+}
+.contact a {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #316b9e;
+  color: white;
+  padding: 10px 15px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+.clear {
+  clear: both;
+}
